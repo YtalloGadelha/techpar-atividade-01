@@ -1,5 +1,5 @@
 # techpar-atividade-01
-Atividade 01, treinamento Techpar.
+Atividade 01, treinamento TechPar.
 
 criar aplicativo nodejs que sirva uma rota GET atendendo em /hello
 o projeto deve se chamar techpar-atividade-01
@@ -14,4 +14,3 @@ criar na seção scripts do package.json um script chamado "dev"
 o script deve disparar o nodemon
 na linha de comando, deve ser possível digitar npm run dev e o aplicativo rodar em http://127.0.0.1:300/hello
 a atividade quando implementada deve ser publicada no github com o nome de projeto "techpar-atividade-01"
-prazo de 2h para entrega
